@@ -3,6 +3,7 @@
   width: 100px;
   height: 100px;
   position: relative;
+  margin: 10px 20px
 }
 
 .outer .inner {
